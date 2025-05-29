@@ -1,12 +1,14 @@
 {
   "creator": "Setarjoy",
-  "whatsapp": "https://wa.me/6281515256559",
+  "telegram": "t.me/setarjoy",
   "github": "https://github.com/Setarjoy",
   "youtube": "",
   "saluran": "",
-  "favicon": "https://files.catbox.moe/nwa5vc.jpg", 
+  "favicon": "https://files.catbox.moe/nwa5vc.jpg",
   "apititle": "SetarjoyApi",
   "apikey": [
-    "setarjoy", "Freeapikeybyjoy"
+    "setarjoy",
+    "Freeapikeybyjoy",
+    "setarjoy"
   ]
 }
